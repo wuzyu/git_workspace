@@ -3,5 +3,5 @@ option
 new
 op
 mm
-checkout
+out
 
